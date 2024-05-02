@@ -5,3 +5,5 @@ def print_stars(n):
     print(f"{'*':^{n}}")
     print(f"{'*':^{n}}")
 print_stars(5)
+
+print(123)
